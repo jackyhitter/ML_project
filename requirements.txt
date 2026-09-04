@@ -3,4 +3,9 @@ numpy
 scikit-learn
 seaborn
 matplotlib
+ipykernel
+jupyter
+catboost
+xgboost
+lightgbm
 -e .
