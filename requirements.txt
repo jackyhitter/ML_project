@@ -8,4 +8,5 @@ jupyter
 catboost
 xgboost
 lightgbm
--e .
+dill
+#-e .
